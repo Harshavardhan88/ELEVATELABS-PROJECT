@@ -1,8 +1,6 @@
 # ELEVATELABS-PROJECT
 
-Absolutely! Here's a refined version of your project report with a more humanized tone, including your note that training and testing were done in **Jupyter Notebook**, while **real-time prediction** was performed in **Visual Studio Code (VS Code)**:
 
----
 
 ### **Sign Language Recognition System - Project Report**
 
